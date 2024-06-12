@@ -1,0 +1,200 @@
+game id*,date,balls*,strikes*,visiting team*,batting team*,res batter*,res batter* Last,res batter* First,res batter hand*,res pitcher*,res pitcher* Last,res pitcher* First,res pitcher hand*,pitch sequence
+BOS202107010,2021-07-01,2,2,KCA,away,ohear001,O'Hearn,Ryan Patrick,L,eovan001,Eovaldi,Nathan Edward,R,*BBFCS
+BOS202107010,2021-07-01,3,2,KCA,home,renfh001,Renfroe,Dustin Hunter,R,bubik001,Bubic,Kristofer Sime,L,BCBBFC
+BOS202107010,2021-07-01,1,2,KCA,home,santd001,Santana,Daniel Ernesto,R,bubik001,Bubic,Kristofer Sime,L,CSFBFFS
+BOS202107010,2021-07-01,2,2,KCA,home,wongc001,Wong,Connor Sun-Han,R,bubik001,Bubic,Kristofer Sime,L,CBBCFS
+BOS202107010,2021-07-01,0,2,KCA,away,ohear001,O'Hearn,Ryan Patrick,L,eovan001,Eovaldi,Nathan Edward,R,CSS
+BOS202107010,2021-07-01,1,2,KCA,away,rives002,Rivero,Sebastian,R,eovan001,Eovaldi,Nathan Edward,R,CBFFS
+BOS202107010,2021-07-01,0,2,KCA,home,wongc001,Wong,Connor Sun-Han,R,sante001,Santana,Ervin Ramon,R,CFN.S
+BOS202107010,2021-07-01,2,2,KCA,away,santc002,Santana,Carlos,L,eovan001,Eovaldi,Nathan Edward,R,BCBTS
+BOS202107010,2021-07-01,1,2,KCA,away,peres002,Perez,Salvador Johan (Diaz),R,eovan001,Eovaldi,Nathan Edward,R,BCFS
+BOS202107010,2021-07-01,1,2,KCA,home,renfh001,Renfroe,Dustin Hunter,R,stauj001,Staumont,Joshua Tyler,R,BCCS
+BOS202107010,2021-07-01,1,2,KCA,away,rives002,Rivero,Sebastian,R,eovan001,Eovaldi,Nathan Edward,R,FCFBS
+BOS202107010,2021-07-01,2,2,KCA,home,santd001,Santana,Daniel Ernesto,L,barls001,Barlow,Scott,R,S*BSFBF*S
+BOS202107010,2021-07-01,2,2,KCA,home,verda001,Verdugo,Alex Brady,L,barls001,Barlow,Scott,R,FBCB.*S
+BOS202107010,2021-07-01,2,2,KCA,home,martj006,Martinez,Julio Daniel,R,swara001,Swarzak,Anthony Ray,R,.BFBFC
+BOS202107010,2021-07-01,3,2,KCA,home,wongc001,Wong,Connor Sun-Han,R,swara001,Swarzak,Anthony Ray,R,C*SFBF*BFBS
+BOS202107010,2021-07-01,1,2,KCA,away,peres002,Perez,Salvador Johan (Diaz),R,andrm001,Andriese,Matthew Lee,R,CFBS
+BOS202107010,2021-07-01,3,2,KCA,away,rives002,Rivero,Sebastian,R,andrm001,Andriese,Matthew Lee,R,BFBFF*BS
+BOS202107090,2021-07-09,0,2,PHI,away,mccua001,McCutchen,Andrew Stefan,R,richg002,Richards,Garrett Thomas,R,CFS
+BOS202107090,2021-07-09,2,2,PHI,away,millb002,Miller,Bradley Austin,L,richg002,Richards,Garrett Thomas,R,CBFFBS
+BOS202107090,2021-07-09,0,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,velav001,Velasquez,Vincent John,R,CCS
+BOS202107090,2021-07-09,3,2,PHI,away,realj001,Realmuto,Jacob Tyler,R,richg002,Richards,Garrett Thomas,R,1.BBFSFBS
+BOS202107090,2021-07-09,3,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,velav001,Velasquez,Vincent John,R,CBFFFBBS
+BOS202107090,2021-07-09,1,2,PHI,away,millb002,Miller,Bradley Austin,L,richg002,Richards,Garrett Thomas,R,CFBC
+BOS202107090,2021-07-09,0,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,deloe001,De Los Santos,Enyel,R,CST
+BOS202107090,2021-07-09,1,2,PHI,home,dever001,Devers,Rafael Calcano,L,deloe001,De Los Santos,Enyel,R,SBFS
+BOS202107090,2021-07-09,1,2,PHI,home,martj006,Martinez,Julio Daniel,R,kintb001,Kintzler,Brandon Lee,R,SSF*BS
+BOS202107090,2021-07-09,1,2,PHI,away,gregd001,Gregorius,Mariekson Julius,L,riosy001,Rios,Yacksel,R,CBFS
+BOS202107090,2021-07-09,2,2,PHI,home,arroc001,Arroyo,Christian Israel,R,kintb001,Kintzler,Brandon Lee,R,FBSBC
+BOS202107090,2021-07-09,1,2,PHI,away,mccua001,McCutchen,Andrew Stefan,R,andrm001,Andriese,Matthew Lee,R,FFBC
+BOS202107090,2021-07-09,2,2,PHI,home,herne001,Hernandez,Enrique J.,R,alvaj004,Alvarado,Jose Antonio (Lizarzabal),L,.BCSFBFS
+BOS202107090,2021-07-09,1,2,PHI,home,renfh001,Renfroe,Dustin Hunter,R,alvaj004,Alvarado,Jose Antonio (Lizarzabal),L,CSB*S
+BOS202107090,2021-07-09,2,2,PHI,away,willl001,Williams,Lucas Daniel,R,hernd004,Hernandez,Darwinzon David,L,..CFFBBT
+BOS202107090,2021-07-09,1,2,PHI,away,hoskr001,Hoskins,Rhys Dean,R,hernd004,Hernandez,Darwinzon David,L,FCBS
+BOS202107090,2021-07-09,2,2,PHI,away,bohma001,Bohm,Alec Daniel,R,workb001,Workman,Brandon Carlin,R,.TBFBC
+BOS202107090,2021-07-09,0,2,PHI,away,jankt001,Jankowski,Travis Paul,L,workb001,Workman,Brandon Carlin,R,CF*S
+BOS202107100,2021-07-10,2,2,PHI,away,knapa001,Knapp,Andrew Michael,R,perem004,Perez,Martin (Jimenez),L,BFBCFS
+BOS202107100,2021-07-10,1,2,PHI,away,seguj002,Segura,Jean Carlos Enrique,R,perem004,Perez,Martin (Jimenez),L,*BCFS
+BOS202107100,2021-07-10,0,2,PHI,away,harpb003,Harper,Bryce Aron Max,L,perem004,Perez,Martin (Jimenez),L,FFS
+BOS202107100,2021-07-10,2,2,PHI,away,bohma001,Bohm,Alec Daniel,R,perem004,Perez,Martin (Jimenez),L,CFBBC
+BOS202107100,2021-07-10,2,2,PHI,home,dalbb001,Dalbec,Robert Vernon,R,moorm003,Moore,Matthew Cody,L,B1SBSS
+BOS202107100,2021-07-10,1,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,faltb001,Falter,Bailey,L,.CBCFFF*S
+BOS202107100,2021-07-10,3,2,PHI,home,renfh001,Renfroe,Dustin Hunter,R,faltb001,Falter,Bailey,L,CBBFBS
+BOS202107100,2021-07-10,0,2,PHI,away,realj001,Realmuto,Jacob Tyler,R,whitg002,Whitlock,Garrett Getts,R,SCS
+BOS202107100,2021-07-10,1,2,PHI,home,dalbb001,Dalbec,Robert Vernon,R,faltb001,Falter,Bailey,L,CBCS
+BOS202107100,2021-07-10,0,2,PHI,away,realj001,Realmuto,Jacob Tyler,R,brica001,Brice,Austin Robert,R,CSFFS
+BOS202107100,2021-07-10,1,2,PHI,home,chavm001,Chavis,Michael Scott,R,hammj003,Hammer,John Dale,R,.CFBS
+BOS202107100,2021-07-10,0,2,PHI,home,dever001,Devers,Rafael Calcano,L,hammj003,Hammer,John Dale,R,CFF*S
+BOS202107100,2021-07-10,2,2,PHI,away,willl001,Williams,Lucas Daniel,R,brica001,Brice,Austin Robert,R,...BCSBS
+BOS202107100,2021-07-10,3,2,PHI,away,torrr001,Torreyes,Ronald Alcides,R,brica001,Brice,Austin Robert,R,BCFBBC
+BOS202107100,2021-07-10,2,2,PHI,home,dalbb001,Dalbec,Robert Vernon,R,brogc001,Brogdon,Connor Michael,R,CBFBS
+BOS202107110,2021-07-11,1,2,PHI,away,mccua001,McCutchen,Andrew Stefan,R,piven001,Pivetta,Nicholas Johncarlo,R,BFF*S
+BOS202107110,2021-07-11,2,2,PHI,away,hoskr001,Hoskins,Rhys Dean,R,piven001,Pivetta,Nicholas Johncarlo,R,CCBBC
+BOS202107110,2021-07-11,1,2,PHI,home,martj006,Martinez,Julio Daniel,R,sancc002,Sanchez,Cristopher Alexis,L,BFF*S
+BOS202107110,2021-07-11,2,2,PHI,away,mccua001,McCutchen,Andrew Stefan,R,piven001,Pivetta,Nicholas Johncarlo,R,CBBCC
+BOS202107110,2021-07-11,3,2,PHI,away,gregd001,Gregorius,Mariekson Julius,L,piven001,Pivetta,Nicholas Johncarlo,R,FBBFFBS
+BOS202107110,2021-07-11,2,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,sancc002,Sanchez,Cristopher Alexis,L,BBFFS
+BOS202107110,2021-07-11,2,2,PHI,away,harpb003,Harper,Bryce Aron Max,L,riosy001,Rios,Yacksel,R,BSFBS
+BOS202107110,2021-07-11,0,2,PHI,away,millb002,Miller,Bradley Austin,L,hernd004,Hernandez,Darwinzon David,L,.CSFT
+BOS202107110,2021-07-11,0,2,PHI,home,dever001,Devers,Rafael Calcano,L,alvaj004,Alvarado,Jose Antonio (Lizarzabal),L,.CSS
+BOS202107110,2021-07-11,1,2,PHI,away,realj001,Realmuto,Jacob Tyler,R,sawah001,Sawamura,Hirokazu,R,CSB*S
+BOS202107110,2021-07-11,2,2,PHI,away,hoskr001,Hoskins,Rhys Dean,R,ottaa001,Ottavino,Adam Robert,R,CBC>B.C
+BOS202107110,2021-07-11,1,2,PHI,home,vazqc001,Vazquez,Christian Rafael,R,suarr001,Suarez,Ranger Jose,L,CCB1F*S
+BOS202107110,2021-07-11,3,2,PHI,home,dalbb001,Dalbec,Robert Vernon,R,suarr001,Suarez,Ranger Jose,L,BCFBB1S
+BOS202107110,2021-07-11,3,2,PHI,home,martj006,Martinez,Julio Daniel,R,suarr001,Suarez,Ranger Jose,L,BBCFBC
+BOS202107110,2021-07-11,2,2,PHI,home,bogax001,Bogaerts,Xander Jan,R,suarr001,Suarez,Ranger Jose,L,BCSBFC
+BOS202107220,2021-07-22,1,2,NYA,away,gardb001,Gardner,Brett M.,L,houct001,Houck,Tanner,R,BCFS
+BOS202107220,2021-07-22,2,2,NYA,home,bogax001,Bogaerts,Xander Jan,R,montj004,Montgomery,Jordan Blackmon,L,CSBBFF*S
+BOS202107220,2021-07-22,3,2,NYA,away,torrg001,Torres,Gleyber David,R,houct001,Houck,Tanner,R,BCCBBS
+BOS202107220,2021-07-22,0,2,NYA,away,branr002,Brantly,Robert Jacob,L,houct001,Houck,Tanner,R,CFFF1S
+BOS202107220,2021-07-22,0,2,NYA,away,alleg002,Allen,Gregory Lomack,L,houct001,Houck,Tanner,R,CS1C
+BOS202107220,2021-07-22,0,2,NYA,home,martj006,Martinez,Julio Daniel,R,montj004,Montgomery,Jordan Blackmon,L,FF*S
+BOS202107220,2021-07-22,3,2,NYA,away,wadet002,Wade,Tyler Dean,L,houct001,Houck,Tanner,R,CBBBC*S
+BOS202107220,2021-07-22,1,2,NYA,away,lemad001,LeMahieu,David John,R,houct001,Houck,Tanner,R,CFBS
+BOS202107220,2021-07-22,1,2,NYA,home,herne001,Hernandez,Enrique J.,R,montj004,Montgomery,Jordan Blackmon,L,BSC*S
+BOS202107220,2021-07-22,1,2,NYA,away,odorr001,Odor,Rougned Roberto,L,houct001,Houck,Tanner,R,BCF*S
+BOS202107220,2021-07-22,1,2,NYA,home,renfh001,Renfroe,Dustin Hunter,R,montj004,Montgomery,Jordan Blackmon,L,CFBS
+BOS202107220,2021-07-22,2,2,NYA,away,alleg002,Allen,Gregory Lomack,L,houct001,Houck,Tanner,R,BFBCC
+BOS202107220,2021-07-22,2,2,NYA,home,dalbb001,Dalbec,Robert Vernon,R,montj004,Montgomery,Jordan Blackmon,L,CSBB*S
+BOS202107220,2021-07-22,1,2,NYA,home,chavm001,Chavis,Michael Scott,R,montj004,Montgomery,Jordan Blackmon,L,FSB*S
+BOS202107220,2021-07-22,1,2,NYA,away,odorr001,Odor,Rougned Roberto,L,taylj001,Taylor,Joshua Earl,L,BFFS
+BOS202107220,2021-07-22,1,2,NYA,away,branr002,Brantly,Robert Jacob,L,taylj001,Taylor,Joshua Earl,L,S*B1>C.S
+BOS202107220,2021-07-22,1,2,NYA,away,flore001,Florial,Estevan Haniel,L,hernd004,Hernandez,Darwinzon David,L,SCBT
+BOS202107220,2021-07-22,1,2,NYA,away,wadet002,Wade,Tyler Dean,L,hernd004,Hernandez,Darwinzon David,L,CTBC
+BOS202107220,2021-07-22,2,2,NYA,away,branr002,Brantly,Robert Jacob,L,ottaa001,Ottavino,Adam Robert,R,BBCFS
+BOS202107220,2021-07-22,0,2,NYA,home,vazqc001,Vazquez,Christian Rafael,R,greec003,Green,Chad Keith,R,.SFFC
+BOS202107220,2021-07-22,1,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,barnm001,Barnes,Matthew David,R,CSBF*S
+BOS202107220,2021-07-22,3,2,NYA,home,martj006,Martinez,Julio Daniel,R,krisb001,Kriske,Brooks Joseph,R,F*B.BB.FS
+BOS202107230,2021-07-23,0,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,CSS
+BOS202107230,2021-07-23,2,2,NYA,home,duraj001,Duran,Jarren William,L,coleg001,Cole,Gerrit Alan,R,CBSBS
+BOS202107230,2021-07-23,3,2,NYA,home,dever001,Devers,Rafael Calcano,L,coleg001,Cole,Gerrit Alan,R,BFBCFB>C
+BOS202107230,2021-07-23,0,2,NYA,away,gittc001,Gittens,Christopher Ryan,R,valdp002,Valdez,Phillips Chalier,R,.CFS
+BOS202107230,2021-07-23,2,2,NYA,away,alleg002,Allen,Gregory Lomack,L,valdp002,Valdez,Phillips Chalier,R,C*BBCS
+BOS202107230,2021-07-23,1,2,NYA,away,lemad001,LeMahieu,David John,R,valdp002,Valdez,Phillips Chalier,R,BCFC
+BOS202107230,2021-07-23,0,2,NYA,home,martj006,Martinez,Julio Daniel,R,coleg001,Cole,Gerrit Alan,R,CFC
+BOS202107230,2021-07-23,1,2,NYA,home,verda001,Verdugo,Alex Brady,L,coleg001,Cole,Gerrit Alan,R,CFBS
+BOS202107230,2021-07-23,2,2,NYA,away,sancg002,Sanchez,Gary,R,valdp002,Valdez,Phillips Chalier,R,1*BCSB11S
+BOS202107230,2021-07-23,3,2,NYA,home,bogax001,Bogaerts,Xander Jan,R,coleg001,Cole,Gerrit Alan,R,BBFBSC
+BOS202107230,2021-07-23,3,2,NYA,home,dever001,Devers,Rafael Calcano,L,coleg001,Cole,Gerrit Alan,R,S*BBFFB>F>S
+BOS202107230,2021-07-23,3,2,NYA,away,torrg001,Torres,Gleyber David,R,valdp002,Valdez,Phillips Chalier,R,BSBBCFFS
+BOS202107230,2021-07-23,3,2,NYA,away,gardb001,Gardner,Brett M.,L,valdp002,Valdez,Phillips Chalier,R,BCBBLFT
+BOS202107230,2021-07-23,3,2,NYA,away,lamar001,LaMarre,Ryan M.,R,valdp002,Valdez,Phillips Chalier,R,BC*BBS>S
+BOS202107230,2021-07-23,1,2,NYA,home,vazqc001,Vazquez,Christian Rafael,R,coleg001,Cole,Gerrit Alan,R,CS*BC
+BOS202107230,2021-07-23,0,2,NYA,away,alleg002,Allen,Gregory Lomack,L,riosy001,Rios,Yacksel,R,.CS*S
+BOS202107230,2021-07-23,3,2,NYA,home,dalbb001,Dalbec,Robert Vernon,R,coleg001,Cole,Gerrit Alan,R,BSFBBC
+BOS202107230,2021-07-23,1,2,NYA,home,renfh001,Renfroe,Dustin Hunter,R,cortn001,Cortes,Nestor,L,CFBC
+BOS202107230,2021-07-23,2,2,NYA,away,flore001,Florial,Estevan Haniel,L,whitg002,Whitlock,Garrett Getts,R,..CFBBS
+BOS202107230,2021-07-23,3,2,NYA,home,dalbb001,Dalbec,Robert Vernon,R,cortn001,Cortes,Nestor,L,..BBFSBS
+BOS202107230,2021-07-23,3,2,NYA,home,bogax001,Bogaerts,Xander Jan,R,cortn001,Cortes,Nestor,L,BBBCFC
+BOS202107230,2021-07-23,1,2,NYA,away,gardb001,Gardner,Brett M.,L,hernd004,Hernandez,Darwinzon David,L,CBCC
+BOS202107230,2021-07-23,1,2,NYA,away,flore001,Florial,Estevan Haniel,L,hernd004,Hernandez,Darwinzon David,L,CFFBFS
+BOS202107230,2021-07-23,1,2,NYA,home,renfh001,Renfroe,Dustin Hunter,R,wilsj004,Wilson,Justin James,L,BFFC
+BOS202107240,2021-07-24,1,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,eovan001,Eovaldi,Nathan Edward,R,CBFS
+BOS202107240,2021-07-24,0,2,NYA,away,odorr001,Odor,Rougned Roberto,L,eovan001,Eovaldi,Nathan Edward,R,SFFS
+BOS202107240,2021-07-24,1,2,NYA,home,bogax001,Bogaerts,Xander Jan,R,tailj001,Taillon,Jameson Lee,R,FFBS
+BOS202107240,2021-07-24,0,2,NYA,away,torrg001,Torres,Gleyber David,R,eovan001,Eovaldi,Nathan Edward,R,FFS
+BOS202107240,2021-07-24,0,2,NYA,away,alleg002,Allen,Gregory Lomack,L,eovan001,Eovaldi,Nathan Edward,R,CFFC
+BOS202107240,2021-07-24,1,2,NYA,home,chavm001,Chavis,Michael Scott,R,tailj001,Taillon,Jameson Lee,R,BTFS
+BOS202107240,2021-07-24,0,2,NYA,away,gardb001,Gardner,Brett M.,L,eovan001,Eovaldi,Nathan Edward,R,CCS
+BOS202107240,2021-07-24,0,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,eovan001,Eovaldi,Nathan Edward,R,CS*S
+BOS202107240,2021-07-24,2,2,NYA,away,torrg001,Torres,Gleyber David,R,eovan001,Eovaldi,Nathan Edward,R,FCBBS
+BOS202107240,2021-07-24,1,2,NYA,home,chavm001,Chavis,Michael Scott,R,tailj001,Taillon,Jameson Lee,R,SFB*S
+BOS202107240,2021-07-24,1,2,NYA,away,gardb001,Gardner,Brett M.,L,eovan001,Eovaldi,Nathan Edward,R,BFFFF*S
+BOS202107240,2021-07-24,1,2,NYA,home,plawk001,Plawecki,Kevin Jeffrey,R,tailj001,Taillon,Jameson Lee,R,CBFS
+BOS202107240,2021-07-24,2,2,NYA,home,plawk001,Plawecki,Kevin Jeffrey,R,chapa001,Chapman,Albertin Aroldis (de la Cruz),L,BBFCFS
+BOS202107240,2021-07-24,2,2,NYA,home,herne001,Hernandez,Enrique J.,R,chapa001,Chapman,Albertin Aroldis (de la Cruz),L,C*B*BCS
+BOS202107250,2021-07-25,1,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,perem004,Perez,Martin (Jimenez),L,BFFS
+BOS202107250,2021-07-25,0,2,NYA,away,odorr001,Odor,Rougned Roberto,L,perem004,Perez,Martin (Jimenez),L,CSF*S
+BOS202107250,2021-07-25,2,2,NYA,home,duraj001,Duran,Jarren William,L,germd001,German,Domingo,R,FBSFFFBS
+BOS202107250,2021-07-25,2,2,NYA,away,torrg001,Torres,Gleyber David,R,perem004,Perez,Martin (Jimenez),L,TBCFBC
+BOS202107250,2021-07-25,1,2,NYA,home,verda001,Verdugo,Alex Brady,L,germd001,German,Domingo,R,BCFF*S
+BOS202107250,2021-07-25,2,2,NYA,away,lamar001,LaMarre,Ryan M.,R,perem004,Perez,Martin (Jimenez),L,CBBSC
+BOS202107250,2021-07-25,2,2,NYA,away,lemad001,LeMahieu,David John,R,perem004,Perez,Martin (Jimenez),L,BCF1BC
+BOS202107250,2021-07-25,0,2,NYA,away,sancg002,Sanchez,Gary,R,perem004,Perez,Martin (Jimenez),L,CFF*S
+BOS202107250,2021-07-25,1,2,NYA,home,cordf003,Cordero,Franchy (Vargas),L,germd001,German,Domingo,R,BSSS
+BOS202107250,2021-07-25,0,2,NYA,home,duraj001,Duran,Jarren William,L,germd001,German,Domingo,R,FFS
+BOS202107250,2021-07-25,0,2,NYA,home,dever001,Devers,Rafael Calcano,L,germd001,German,Domingo,R,CSS
+BOS202107250,2021-07-25,2,2,NYA,home,cordf003,Cordero,Franchy (Vargas),L,germd001,German,Domingo,R,SBFBC
+BOS202107250,2021-07-25,1,2,NYA,away,stanm004,Stanton,Giancarlo Cruz-Michael,R,taylj001,Taylor,Joshua Earl,L,.*BS*SS
+BOS202107250,2021-07-25,0,2,NYA,home,dever001,Devers,Rafael Calcano,L,germd001,German,Domingo,R,SFS
+BOS202107250,2021-07-25,1,2,NYA,home,martj006,Martinez,Julio Daniel,R,germd001,German,Domingo,R,FFBS
+BOS202107260,2021-07-26,0,2,TOR,home,duraj001,Duran,Jarren William,L,hatct001,Hatch,Thomas,R,FFC
+BOS202107260,2021-07-26,3,2,TOR,home,dever001,Devers,Rafael Calcano,L,hatct001,Hatch,Thomas,R,B.BCSFBC
+BOS202107260,2021-07-26,1,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,piven001,Pivetta,Nicholas Johncarlo,R,SBCF*S
+BOS202107260,2021-07-26,1,2,TOR,home,herne001,Hernandez,Enrique J.,R,hatct001,Hatch,Thomas,R,SCBS
+BOS202107260,2021-07-26,0,2,TOR,away,bichb001,Bichette,Bo Joseph,R,piven001,Pivetta,Nicholas Johncarlo,R,CSF*S
+BOS202107260,2021-07-26,2,2,TOR,away,mcgur002,McGuire,Reese Jackson,L,piven001,Pivetta,Nicholas Johncarlo,R,CFFFFBFBC
+BOS202107260,2021-07-26,1,2,TOR,home,herne001,Hernandez,Enrique J.,R,hatct001,Hatch,Thomas,R,1F*BFS
+BOS202107260,2021-07-26,0,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,valdp002,Valdez,Phillips Chalier,R,.SSS
+BOS202107260,2021-07-26,3,2,TOR,home,martj006,Martinez,Julio Daniel,R,sauct001,Saucedo,Tayler Andrew,L,BFSBBS
+BOS202107260,2021-07-26,2,2,TOR,away,biggc002,Biggio,Cavan Thomas,L,valdp002,Valdez,Phillips Chalier,R,BBCF*S
+BOS202107260,2021-07-26,1,2,TOR,home,dever001,Devers,Rafael Calcano,L,richt001,Richards,Trevor,R,CBCS
+BOS202107260,2021-07-26,0,2,TOR,home,cordf003,Cordero,Franchy (Vargas),L,romaj004,Romano,Jordan Robert,R,.>S.SFC
+BOS202107281,2021-07-28,3,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,richg002,Richards,Garrett Thomas,R,1BCSB1BS
+BOS202107281,2021-07-28,0,2,TOR,home,chavm001,Chavis,Michael Scott,R,ray-r002,Ray,Robert Glenn,L,CFFS
+BOS202107281,2021-07-28,3,2,TOR,home,herne001,Hernandez,Enrique J.,R,ray-r002,Ray,Robert Glenn,L,*BFFFBBFS
+BOS202107281,2021-07-28,0,2,TOR,away,biggc002,Biggio,Cavan Thomas,L,richg002,Richards,Garrett Thomas,R,CSS
+BOS202107281,2021-07-28,0,2,TOR,home,dalbb001,Dalbec,Robert Vernon,R,ray-r002,Ray,Robert Glenn,L,SFFS
+BOS202107281,2021-07-28,1,2,TOR,home,chavm001,Chavis,Michael Scott,R,ray-r002,Ray,Robert Glenn,L,S*S*B*S
+BOS202107281,2021-07-28,3,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,riosy001,Rios,Yacksel,R,CCBF*BB*S
+BOS202107281,2021-07-28,3,2,TOR,home,herne001,Hernandez,Enrique J.,R,ray-r002,Ray,Robert Glenn,L,CSBBBC
+BOS202107281,2021-07-28,3,2,TOR,home,renfh001,Renfroe,Dustin Hunter,R,ray-r002,Ray,Robert Glenn,L,BCBSBFS
+BOS202107281,2021-07-28,1,2,TOR,away,gurrl001,Gurriel,Lourdes Yunielki,R,riosy001,Rios,Yacksel,R,CBFS
+BOS202107281,2021-07-28,2,2,TOR,away,biggc002,Biggio,Cavan Thomas,L,riosy001,Rios,Yacksel,R,BBFSC
+BOS202107281,2021-07-28,0,2,TOR,home,plawk001,Plawecki,Kevin Jeffrey,R,ray-r002,Ray,Robert Glenn,L,CST
+BOS202107281,2021-07-28,1,2,TOR,home,dalbb001,Dalbec,Robert Vernon,R,ray-r002,Ray,Robert Glenn,L,SFBS
+BOS202107281,2021-07-28,3,2,TOR,away,sprig001,Springer,George Chelston,R,workb001,Workman,Brandon Carlin,R,CSBFBBFS
+BOS202107281,2021-07-28,0,2,TOR,home,duraj001,Duran,Jarren William,L,romaj004,Romano,Jordan Robert,R,...FF*S
+BOS202107282,2021-07-28,1,2,TOR,away,sprig001,Springer,George Chelston,R,houct001,Houck,Tanner,R,CSBS
+BOS202107282,2021-07-28,3,2,TOR,away,guerv002,Guerrero,Vladimir Jr.,R,houct001,Houck,Tanner,R,SSBBBFC
+BOS202107282,2021-07-28,1,2,TOR,away,semim001,Semien,Marcus Andrew,R,houct001,Houck,Tanner,R,TSBC
+BOS202107282,2021-07-28,3,2,TOR,away,gurrl001,Gurriel,Lourdes Yunielki,R,houct001,Houck,Tanner,R,SBBBFS
+BOS202107282,2021-07-28,2,2,TOR,away,mcgur002,McGuire,Reese Jackson,L,houct001,Houck,Tanner,R,BF1FF>B.FS
+BOS202107282,2021-07-28,1,2,TOR,away,sprig001,Springer,George Chelston,R,houct001,Houck,Tanner,R,SBSFS
+BOS202107282,2021-07-28,0,2,TOR,home,bogax001,Bogaerts,Xander Jan,R,matzs001,Matz,Steven Jakob,L,FCFS
+BOS202107282,2021-07-28,2,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,houct001,Houck,Tanner,R,1SBBCS
+BOS202107282,2021-07-28,3,2,TOR,home,dalbb001,Dalbec,Robert Vernon,R,matzs001,Matz,Steven Jakob,L,BC*BSBC
+BOS202107282,2021-07-28,1,2,TOR,home,renfh001,Renfroe,Dustin Hunter,R,murpp001,Murphy,Patrick Brian,R,CBFS
+BOS202107282,2021-07-28,0,2,TOR,home,dalbb001,Dalbec,Robert Vernon,R,murpp001,Murphy,Patrick Brian,R,CF*S
+BOS202107282,2021-07-28,1,2,TOR,home,martj006,Martinez,Julio Daniel,R,thort002,Thornton,Trent Edward,R,FS*BS
+BOS202107282,2021-07-28,1,2,TOR,away,gricr001,Grichuk,Randal Alexander,R,barnm001,Barnes,Matthew David,R,.C*SBFC
+BOS202107290,2021-07-29,1,2,TOR,away,sprig001,Springer,George Chelston,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,BFST
+BOS202107290,2021-07-29,1,2,TOR,away,espis001,Espinal,Santiago Roman,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,BFFS
+BOS202107290,2021-07-29,2,2,TOR,home,bogax001,Bogaerts,Xander Jan,R,ryu-h001,Ryu,Hyun-Jin,L,BBCCS
+BOS202107290,2021-07-29,0,2,TOR,away,guerv002,Guerrero,Vladimir Jr.,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,SSFFS
+BOS202107290,2021-07-29,1,2,TOR,away,semim001,Semien,Marcus Andrew,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,FBFT
+BOS202107290,2021-07-29,0,2,TOR,away,bichb001,Bichette,Bo Joseph,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,SSFF*S
+BOS202107290,2021-07-29,2,2,TOR,home,cordf003,Cordero,Franchy (Vargas),L,ryu-h001,Ryu,Hyun-Jin,L,TCBBT
+BOS202107290,2021-07-29,2,2,TOR,away,hernt002,Hernandez,Teoscar Jose,R,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,SBCBC
+BOS202107290,2021-07-29,1,2,TOR,away,biggc002,Biggio,Cavan Thomas,L,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,BSFFS
+BOS202107290,2021-07-29,1,2,TOR,home,martj006,Martinez,Julio Daniel,R,ryu-h001,Ryu,Hyun-Jin,L,CBFS
+BOS202107290,2021-07-29,1,2,TOR,away,mcgur002,McGuire,Reese Jackson,L,rodre004,Rodriguez,Eduardo Jose (Hernandez),L,FLBS
+BOS202107290,2021-07-29,2,2,TOR,home,cordf003,Cordero,Franchy (Vargas),L,ryu-h001,Ryu,Hyun-Jin,L,CBSBS
+BOS202107290,2021-07-29,1,2,TOR,away,sprig001,Springer,George Chelston,R,workb001,Workman,Brandon Carlin,R,SBCS
+BOS202107290,2021-07-29,0,2,TOR,home,martj006,Martinez,Julio Daniel,R,ryu-h001,Ryu,Hyun-Jin,L,CFS
+BOS202107290,2021-07-29,1,2,TOR,away,sprig001,Springer,George Chelston,R,hernd004,Hernandez,Darwinzon David,L,BCFS
+BOS202107290,2021-07-29,0,2,TOR,home,verda001,Verdugo,Alex Brady,L,dolir001,Dolis,Rafael Jose,R,CFS
+BOS202107290,2021-07-29,2,2,TOR,home,dalbb001,Dalbec,Robert Vernon,R,sneak001,Snead,Kirby,L,CBFFBC
+BOS202107290,2021-07-29,1,2,TOR,home,chavm001,Chavis,Michael Scott,R,sneak001,Snead,Kirby,L,BCFFC
+BOS202107290,2021-07-29,1,2,TOR,home,duraj001,Duran,Jarren William,L,sneak001,Snead,Kirby,L,SS.FBC

@@ -1,0 +1,200 @@
+date,batter_id,batter_first,batter_last,pitcher_id,pitcher_first,pitcher_last,balls,strikes,pitch_sequence
+2021-07-01,1,Ryan Patrick,O'Hearn,54,Nathan Edward,Eovaldi,2,2,*BBFCS
+2021-07-01,2,Dustin Hunter,Renfroe,55,Kristofer Sime,Bubic,3,2,BCBBFC
+2021-07-01,3,Daniel Ernesto,Santana,55,Kristofer Sime,Bubic,1,2,CSFBFFS
+2021-07-01,4,Connor Sun-Han,Wong,55,Kristofer Sime,Bubic,2,2,CBBCFS
+2021-07-01,1,Ryan Patrick,O'Hearn,54,Nathan Edward,Eovaldi,0,2,CSS
+2021-07-01,5,Sebastian,Rivero,54,Nathan Edward,Eovaldi,1,2,CBFFS
+2021-07-01,4,Connor Sun-Han,Wong,56,Ervin Ramon,Santana,0,2,CFN.S
+2021-07-01,6,Carlos,Santana,54,Nathan Edward,Eovaldi,2,2,BCBTS
+2021-07-01,7,Salvador Johan (Diaz),Perez,54,Nathan Edward,Eovaldi,1,2,BCFS
+2021-07-01,2,Dustin Hunter,Renfroe,57,Joshua Tyler,Staumont,1,2,BCCS
+2021-07-01,5,Sebastian,Rivero,54,Nathan Edward,Eovaldi,1,2,FCFBS
+2021-07-01,3,Daniel Ernesto,Santana,58,Scott,Barlow,2,2,S*BSFBF*S
+2021-07-01,8,Alex Brady,Verdugo,58,Scott,Barlow,2,2,FBCB.*S
+2021-07-01,9,Julio Daniel,Martinez,59,Anthony Ray,Swarzak,2,2,.BFBFC
+2021-07-01,4,Connor Sun-Han,Wong,59,Anthony Ray,Swarzak,3,2,C*SFBF*BFBS
+2021-07-01,7,Salvador Johan (Diaz),Perez,60,Matthew Lee,Andriese,1,2,CFBS
+2021-07-01,5,Sebastian,Rivero,60,Matthew Lee,Andriese,3,2,BFBFF*BS
+2021-07-09,10,Andrew Stefan,McCutchen,61,Garrett Thomas,Richards,0,2,CFS
+2021-07-09,11,Bradley Austin,Miller,61,Garrett Thomas,Richards,2,2,CBFFBS
+2021-07-09,12,Xander Jan,Bogaerts,62,Vincent John,Velasquez,0,2,CCS
+2021-07-09,13,Jacob Tyler,Realmuto,61,Garrett Thomas,Richards,3,2,1.BBFSFBS
+2021-07-09,12,Xander Jan,Bogaerts,62,Vincent John,Velasquez,3,2,CBFFFBBS
+2021-07-09,11,Bradley Austin,Miller,61,Garrett Thomas,Richards,1,2,CFBC
+2021-07-09,12,Xander Jan,Bogaerts,63,Enyel,De Los Santos,0,2,CST
+2021-07-09,14,Rafael Calcano,Devers,63,Enyel,De Los Santos,1,2,SBFS
+2021-07-09,9,Julio Daniel,Martinez,64,Brandon Lee,Kintzler,1,2,SSF*BS
+2021-07-09,15,Mariekson Julius,Gregorius,65,Yacksel,Rios,1,2,CBFS
+2021-07-09,16,Christian Israel,Arroyo,64,Brandon Lee,Kintzler,2,2,FBSBC
+2021-07-09,10,Andrew Stefan,McCutchen,60,Matthew Lee,Andriese,1,2,FFBC
+2021-07-09,17,Enrique J.,Hernandez,66,Jose Antonio (Lizarzabal),Alvarado,2,2,.BCSFBFS
+2021-07-09,2,Dustin Hunter,Renfroe,66,Jose Antonio (Lizarzabal),Alvarado,1,2,CSB*S
+2021-07-09,18,Lucas Daniel,Williams,67,Darwinzon David,Hernandez,2,2,..CFFBBT
+2021-07-09,19,Rhys Dean,Hoskins,67,Darwinzon David,Hernandez,1,2,FCBS
+2021-07-09,20,Alec Daniel,Bohm,68,Brandon Carlin,Workman,2,2,.TBFBC
+2021-07-09,21,Travis Paul,Jankowski,68,Brandon Carlin,Workman,0,2,CF*S
+2021-07-10,22,Andrew Michael,Knapp,69,Martin (Jimenez),Perez,2,2,BFBCFS
+2021-07-10,23,Jean Carlos Enrique,Segura,69,Martin (Jimenez),Perez,1,2,*BCFS
+2021-07-10,24,Bryce Aron Max,Harper,69,Martin (Jimenez),Perez,0,2,FFS
+2021-07-10,20,Alec Daniel,Bohm,69,Martin (Jimenez),Perez,2,2,CFBBC
+2021-07-10,25,Robert Vernon,Dalbec,70,Matthew Cody,Moore,2,2,B1SBSS
+2021-07-10,12,Xander Jan,Bogaerts,71,Bailey,Falter,1,2,.CBCFFF*S
+2021-07-10,2,Dustin Hunter,Renfroe,71,Bailey,Falter,3,2,CBBFBS
+2021-07-10,13,Jacob Tyler,Realmuto,72,Garrett Getts,Whitlock,0,2,SCS
+2021-07-10,25,Robert Vernon,Dalbec,71,Bailey,Falter,1,2,CBCS
+2021-07-10,13,Jacob Tyler,Realmuto,73,Austin Robert,Brice,0,2,CSFFS
+2021-07-10,26,Michael Scott,Chavis,74,John Dale,Hammer,1,2,.CFBS
+2021-07-10,14,Rafael Calcano,Devers,74,John Dale,Hammer,0,2,CFF*S
+2021-07-10,18,Lucas Daniel,Williams,73,Austin Robert,Brice,2,2,...BCSBS
+2021-07-10,27,Ronald Alcides,Torreyes,73,Austin Robert,Brice,3,2,BCFBBC
+2021-07-10,25,Robert Vernon,Dalbec,75,Connor Michael,Brogdon,2,2,CBFBS
+2021-07-11,10,Andrew Stefan,McCutchen,76,Nicholas Johncarlo,Pivetta,1,2,BFF*S
+2021-07-11,19,Rhys Dean,Hoskins,76,Nicholas Johncarlo,Pivetta,2,2,CCBBC
+2021-07-11,9,Julio Daniel,Martinez,77,Cristopher Alexis,Sanchez,1,2,BFF*S
+2021-07-11,10,Andrew Stefan,McCutchen,76,Nicholas Johncarlo,Pivetta,2,2,CBBCC
+2021-07-11,15,Mariekson Julius,Gregorius,76,Nicholas Johncarlo,Pivetta,3,2,FBBFFBS
+2021-07-11,12,Xander Jan,Bogaerts,77,Cristopher Alexis,Sanchez,2,2,BBFFS
+2021-07-11,24,Bryce Aron Max,Harper,65,Yacksel,Rios,2,2,BSFBS
+2021-07-11,11,Bradley Austin,Miller,67,Darwinzon David,Hernandez,0,2,.CSFT
+2021-07-11,14,Rafael Calcano,Devers,66,Jose Antonio (Lizarzabal),Alvarado,0,2,.CSS
+2021-07-11,13,Jacob Tyler,Realmuto,78,Hirokazu,Sawamura,1,2,CSB*S
+2021-07-11,19,Rhys Dean,Hoskins,79,Adam Robert,Ottavino,2,2,CBC>B.C
+2021-07-11,28,Christian Rafael,Vazquez,80,Ranger Jose,Suarez,1,2,CCB1F*S
+2021-07-11,25,Robert Vernon,Dalbec,80,Ranger Jose,Suarez,3,2,BCFBB1S
+2021-07-11,9,Julio Daniel,Martinez,80,Ranger Jose,Suarez,3,2,BBCFBC
+2021-07-11,12,Xander Jan,Bogaerts,80,Ranger Jose,Suarez,2,2,BCSBFC
+2021-07-22,29,Brett M.,Gardner,81,Tanner,Houck,1,2,BCFS
+2021-07-22,12,Xander Jan,Bogaerts,82,Jordan Blackmon,Montgomery,2,2,CSBBFF*S
+2021-07-22,30,Gleyber David,Torres,81,Tanner,Houck,3,2,BCCBBS
+2021-07-22,31,Robert Jacob,Brantly,81,Tanner,Houck,0,2,CFFF1S
+2021-07-22,32,Gregory Lomack,Allen,81,Tanner,Houck,0,2,CS1C
+2021-07-22,9,Julio Daniel,Martinez,82,Jordan Blackmon,Montgomery,0,2,FF*S
+2021-07-22,33,Tyler Dean,Wade,81,Tanner,Houck,3,2,CBBBC*S
+2021-07-22,34,David John,LeMahieu,81,Tanner,Houck,1,2,CFBS
+2021-07-22,17,Enrique J.,Hernandez,82,Jordan Blackmon,Montgomery,1,2,BSC*S
+2021-07-22,35,Rougned Roberto,Odor,81,Tanner,Houck,1,2,BCF*S
+2021-07-22,2,Dustin Hunter,Renfroe,82,Jordan Blackmon,Montgomery,1,2,CFBS
+2021-07-22,32,Gregory Lomack,Allen,81,Tanner,Houck,2,2,BFBCC
+2021-07-22,25,Robert Vernon,Dalbec,82,Jordan Blackmon,Montgomery,2,2,CSBB*S
+2021-07-22,26,Michael Scott,Chavis,82,Jordan Blackmon,Montgomery,1,2,FSB*S
+2021-07-22,35,Rougned Roberto,Odor,83,Joshua Earl,Taylor,1,2,BFFS
+2021-07-22,31,Robert Jacob,Brantly,83,Joshua Earl,Taylor,1,2,S*B1>C.S
+2021-07-22,36,Estevan Haniel,Florial,67,Darwinzon David,Hernandez,1,2,SCBT
+2021-07-22,33,Tyler Dean,Wade,67,Darwinzon David,Hernandez,1,2,CTBC
+2021-07-22,31,Robert Jacob,Brantly,79,Adam Robert,Ottavino,2,2,BBCFS
+2021-07-22,28,Christian Rafael,Vazquez,84,Chad Keith,Green,0,2,.SFFC
+2021-07-22,37,Giancarlo Cruz-Michael,Stanton,85,Matthew David,Barnes,1,2,CSBF*S
+2021-07-22,9,Julio Daniel,Martinez,86,Brooks Joseph,Kriske,3,2,F*B.BB.FS
+2021-07-23,37,Giancarlo Cruz-Michael,Stanton,87,Eduardo Jose (Hernandez),Rodriguez,0,2,CSS
+2021-07-23,38,Jarren William,Duran,88,Gerrit Alan,Cole,2,2,CBSBS
+2021-07-23,14,Rafael Calcano,Devers,88,Gerrit Alan,Cole,3,2,BFBCFB>C
+2021-07-23,39,Christopher Ryan,Gittens,89,Phillips Chalier,Valdez,0,2,.CFS
+2021-07-23,32,Gregory Lomack,Allen,89,Phillips Chalier,Valdez,2,2,C*BBCS
+2021-07-23,34,David John,LeMahieu,89,Phillips Chalier,Valdez,1,2,BCFC
+2021-07-23,9,Julio Daniel,Martinez,88,Gerrit Alan,Cole,0,2,CFC
+2021-07-23,8,Alex Brady,Verdugo,88,Gerrit Alan,Cole,1,2,CFBS
+2021-07-23,40,Gary,Sanchez,89,Phillips Chalier,Valdez,2,2,1*BCSB11S
+2021-07-23,12,Xander Jan,Bogaerts,88,Gerrit Alan,Cole,3,2,BBFBSC
+2021-07-23,14,Rafael Calcano,Devers,88,Gerrit Alan,Cole,3,2,S*BBFFB>F>S
+2021-07-23,30,Gleyber David,Torres,89,Phillips Chalier,Valdez,3,2,BSBBCFFS
+2021-07-23,29,Brett M.,Gardner,89,Phillips Chalier,Valdez,3,2,BCBBLFT
+2021-07-23,41,Ryan M.,LaMarre,89,Phillips Chalier,Valdez,3,2,BC*BBS>S
+2021-07-23,28,Christian Rafael,Vazquez,88,Gerrit Alan,Cole,1,2,CS*BC
+2021-07-23,32,Gregory Lomack,Allen,65,Yacksel,Rios,0,2,.CS*S
+2021-07-23,25,Robert Vernon,Dalbec,88,Gerrit Alan,Cole,3,2,BSFBBC
+2021-07-23,2,Dustin Hunter,Renfroe,90,Nestor,Cortes,1,2,CFBC
+2021-07-23,36,Estevan Haniel,Florial,72,Garrett Getts,Whitlock,2,2,..CFBBS
+2021-07-23,25,Robert Vernon,Dalbec,90,Nestor,Cortes,3,2,..BBFSBS
+2021-07-23,12,Xander Jan,Bogaerts,90,Nestor,Cortes,3,2,BBBCFC
+2021-07-23,29,Brett M.,Gardner,67,Darwinzon David,Hernandez,1,2,CBCC
+2021-07-23,36,Estevan Haniel,Florial,67,Darwinzon David,Hernandez,1,2,CFFBFS
+2021-07-23,2,Dustin Hunter,Renfroe,91,Justin James,Wilson,1,2,BFFC
+2021-07-24,37,Giancarlo Cruz-Michael,Stanton,54,Nathan Edward,Eovaldi,1,2,CBFS
+2021-07-24,35,Rougned Roberto,Odor,54,Nathan Edward,Eovaldi,0,2,SFFS
+2021-07-24,12,Xander Jan,Bogaerts,92,Jameson Lee,Taillon,1,2,FFBS
+2021-07-24,30,Gleyber David,Torres,54,Nathan Edward,Eovaldi,0,2,FFS
+2021-07-24,32,Gregory Lomack,Allen,54,Nathan Edward,Eovaldi,0,2,CFFC
+2021-07-24,26,Michael Scott,Chavis,92,Jameson Lee,Taillon,1,2,BTFS
+2021-07-24,29,Brett M.,Gardner,54,Nathan Edward,Eovaldi,0,2,CCS
+2021-07-24,37,Giancarlo Cruz-Michael,Stanton,54,Nathan Edward,Eovaldi,0,2,CS*S
+2021-07-24,30,Gleyber David,Torres,54,Nathan Edward,Eovaldi,2,2,FCBBS
+2021-07-24,26,Michael Scott,Chavis,92,Jameson Lee,Taillon,1,2,SFB*S
+2021-07-24,29,Brett M.,Gardner,54,Nathan Edward,Eovaldi,1,2,BFFFF*S
+2021-07-24,42,Kevin Jeffrey,Plawecki,92,Jameson Lee,Taillon,1,2,CBFS
+2021-07-24,42,Kevin Jeffrey,Plawecki,93,Albertin Aroldis (de la Cruz),Chapman,2,2,BBFCFS
+2021-07-24,17,Enrique J.,Hernandez,93,Albertin Aroldis (de la Cruz),Chapman,2,2,C*B*BCS
+2021-07-25,37,Giancarlo Cruz-Michael,Stanton,69,Martin (Jimenez),Perez,1,2,BFFS
+2021-07-25,35,Rougned Roberto,Odor,69,Martin (Jimenez),Perez,0,2,CSF*S
+2021-07-25,38,Jarren William,Duran,94,Domingo,German,2,2,FBSFFFBS
+2021-07-25,30,Gleyber David,Torres,69,Martin (Jimenez),Perez,2,2,TBCFBC
+2021-07-25,8,Alex Brady,Verdugo,94,Domingo,German,1,2,BCFF*S
+2021-07-25,41,Ryan M.,LaMarre,69,Martin (Jimenez),Perez,2,2,CBBSC
+2021-07-25,34,David John,LeMahieu,69,Martin (Jimenez),Perez,2,2,BCF1BC
+2021-07-25,40,Gary,Sanchez,69,Martin (Jimenez),Perez,0,2,CFF*S
+2021-07-25,43,Franchy (Vargas),Cordero,94,Domingo,German,1,2,BSSS
+2021-07-25,38,Jarren William,Duran,94,Domingo,German,0,2,FFS
+2021-07-25,14,Rafael Calcano,Devers,94,Domingo,German,0,2,CSS
+2021-07-25,43,Franchy (Vargas),Cordero,94,Domingo,German,2,2,SBFBC
+2021-07-25,37,Giancarlo Cruz-Michael,Stanton,83,Joshua Earl,Taylor,1,2,.*BS*SS
+2021-07-25,14,Rafael Calcano,Devers,94,Domingo,German,0,2,SFS
+2021-07-25,9,Julio Daniel,Martinez,94,Domingo,German,1,2,FFBS
+2021-07-26,38,Jarren William,Duran,95,Thomas,Hatch,0,2,FFC
+2021-07-26,14,Rafael Calcano,Devers,95,Thomas,Hatch,3,2,B.BCSFBC
+2021-07-26,44,Teoscar Jose,Hernandez,76,Nicholas Johncarlo,Pivetta,1,2,SBCF*S
+2021-07-26,17,Enrique J.,Hernandez,95,Thomas,Hatch,1,2,SCBS
+2021-07-26,45,Bo Joseph,Bichette,76,Nicholas Johncarlo,Pivetta,0,2,CSF*S
+2021-07-26,46,Reese Jackson,McGuire,76,Nicholas Johncarlo,Pivetta,2,2,CFFFFBFBC
+2021-07-26,17,Enrique J.,Hernandez,95,Thomas,Hatch,1,2,1F*BFS
+2021-07-26,44,Teoscar Jose,Hernandez,89,Phillips Chalier,Valdez,0,2,.SSS
+2021-07-26,9,Julio Daniel,Martinez,96,Tayler Andrew,Saucedo,3,2,BFSBBS
+2021-07-26,47,Cavan Thomas,Biggio,89,Phillips Chalier,Valdez,2,2,BBCF*S
+2021-07-26,14,Rafael Calcano,Devers,97,Trevor,Richards,1,2,CBCS
+2021-07-26,43,Franchy (Vargas),Cordero,98,Jordan Robert,Romano,0,2,.>S.SFC
+2021-07-28,44,Teoscar Jose,Hernandez,61,Garrett Thomas,Richards,3,2,1BCSB1BS
+2021-07-28,26,Michael Scott,Chavis,99,Robert Glenn,Ray,0,2,CFFS
+2021-07-28,17,Enrique J.,Hernandez,99,Robert Glenn,Ray,3,2,*BFFFBBFS
+2021-07-28,47,Cavan Thomas,Biggio,61,Garrett Thomas,Richards,0,2,CSS
+2021-07-28,25,Robert Vernon,Dalbec,99,Robert Glenn,Ray,0,2,SFFS
+2021-07-28,26,Michael Scott,Chavis,99,Robert Glenn,Ray,1,2,S*S*B*S
+2021-07-28,44,Teoscar Jose,Hernandez,65,Yacksel,Rios,3,2,CCBF*BB*S
+2021-07-28,17,Enrique J.,Hernandez,99,Robert Glenn,Ray,3,2,CSBBBC
+2021-07-28,2,Dustin Hunter,Renfroe,99,Robert Glenn,Ray,3,2,BCBSBFS
+2021-07-28,48,Lourdes Yunielki,Gurriel,65,Yacksel,Rios,1,2,CBFS
+2021-07-28,47,Cavan Thomas,Biggio,65,Yacksel,Rios,2,2,BBFSC
+2021-07-28,42,Kevin Jeffrey,Plawecki,99,Robert Glenn,Ray,0,2,CST
+2021-07-28,25,Robert Vernon,Dalbec,99,Robert Glenn,Ray,1,2,SFBS
+2021-07-28,49,George Chelston,Springer,68,Brandon Carlin,Workman,3,2,CSBFBBFS
+2021-07-28,38,Jarren William,Duran,98,Jordan Robert,Romano,0,2,...FF*S
+2021-07-28,49,George Chelston,Springer,81,Tanner,Houck,1,2,CSBS
+2021-07-28,50,Vladimir Jr.,Guerrero,81,Tanner,Houck,3,2,SSBBBFC
+2021-07-28,51,Marcus Andrew,Semien,81,Tanner,Houck,1,2,TSBC
+2021-07-28,48,Lourdes Yunielki,Gurriel,81,Tanner,Houck,3,2,SBBBFS
+2021-07-28,46,Reese Jackson,McGuire,81,Tanner,Houck,2,2,BF1FF>B.FS
+2021-07-28,49,George Chelston,Springer,81,Tanner,Houck,1,2,SBSFS
+2021-07-28,12,Xander Jan,Bogaerts,100,Steven Jakob,Matz,0,2,FCFS
+2021-07-28,44,Teoscar Jose,Hernandez,81,Tanner,Houck,2,2,1SBBCS
+2021-07-28,25,Robert Vernon,Dalbec,100,Steven Jakob,Matz,3,2,BC*BSBC
+2021-07-28,2,Dustin Hunter,Renfroe,101,Patrick Brian,Murphy,1,2,CBFS
+2021-07-28,25,Robert Vernon,Dalbec,101,Patrick Brian,Murphy,0,2,CF*S
+2021-07-28,9,Julio Daniel,Martinez,102,Trent Edward,Thornton,1,2,FS*BS
+2021-07-28,52,Randal Alexander,Grichuk,85,Matthew David,Barnes,1,2,.C*SBFC
+2021-07-29,49,George Chelston,Springer,87,Eduardo Jose (Hernandez),Rodriguez,1,2,BFST
+2021-07-29,53,Santiago Roman,Espinal,87,Eduardo Jose (Hernandez),Rodriguez,1,2,BFFS
+2021-07-29,12,Xander Jan,Bogaerts,103,Hyun-Jin,Ryu,2,2,BBCCS
+2021-07-29,50,Vladimir Jr.,Guerrero,87,Eduardo Jose (Hernandez),Rodriguez,0,2,SSFFS
+2021-07-29,51,Marcus Andrew,Semien,87,Eduardo Jose (Hernandez),Rodriguez,1,2,FBFT
+2021-07-29,45,Bo Joseph,Bichette,87,Eduardo Jose (Hernandez),Rodriguez,0,2,SSFF*S
+2021-07-29,43,Franchy (Vargas),Cordero,103,Hyun-Jin,Ryu,2,2,TCBBT
+2021-07-29,44,Teoscar Jose,Hernandez,87,Eduardo Jose (Hernandez),Rodriguez,2,2,SBCBC
+2021-07-29,47,Cavan Thomas,Biggio,87,Eduardo Jose (Hernandez),Rodriguez,1,2,BSFFS
+2021-07-29,9,Julio Daniel,Martinez,103,Hyun-Jin,Ryu,1,2,CBFS
+2021-07-29,46,Reese Jackson,McGuire,87,Eduardo Jose (Hernandez),Rodriguez,1,2,FLBS
+2021-07-29,43,Franchy (Vargas),Cordero,103,Hyun-Jin,Ryu,2,2,CBSBS
+2021-07-29,49,George Chelston,Springer,68,Brandon Carlin,Workman,1,2,SBCS
+2021-07-29,9,Julio Daniel,Martinez,103,Hyun-Jin,Ryu,0,2,CFS
+2021-07-29,49,George Chelston,Springer,67,Darwinzon David,Hernandez,1,2,BCFS
+2021-07-29,8,Alex Brady,Verdugo,104,Rafael Jose,Dolis,0,2,CFS
+2021-07-29,25,Robert Vernon,Dalbec,105,Kirby,Snead,2,2,CBFFBC
+2021-07-29,26,Michael Scott,Chavis,105,Kirby,Snead,1,2,BCFFC
+2021-07-29,38,Jarren William,Duran,105,Kirby,Snead,1,2,SS.FBC
