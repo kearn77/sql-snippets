@@ -1,4 +1,7 @@
--- Pitchers who recorded a strikeout after throwing a strike on the first pitch.
+/*
+Pitchers who recorded a strikeout after throwing a strike on the first
+pitch.
+*/
 SELECT
   COUNT(pitcher_id) FILTER (
 	WHERE REGEXP_REPLACE(pitch_sequence,'[^A-Y]','','g') NOT SIMILAR TO '(B|V)%') AS 

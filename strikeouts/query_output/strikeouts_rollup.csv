@@ -1,0 +1,94 @@
+DayOfWeek,GameDate,PitcherFirst,PitcherLast,Strikeouts
+SUN,2021-07-11,Pivetta,Nicholas Johncarlo,4
+SUN,2021-07-11,Suarez,Ranger Jose,4
+SUN,2021-07-11,Sanchez,Cristopher Alexis,2
+SUN,2021-07-11,Alvarado,Jose Antonio (Lizarzabal),1
+SUN,2021-07-11,Hernandez,Darwinzon David,1
+SUN,2021-07-11,Ottavino,Adam Robert,1
+SUN,2021-07-11,Rios,Yacksel,1
+SUN,2021-07-11,Sawamura,Hirokazu,1
+SUN,2021-07-11,,,15
+SUN,2021-07-25,German,Domingo,8
+SUN,2021-07-25,Perez,Martin (Jimenez),6
+SUN,2021-07-25,Taylor,Joshua Earl,1
+SUN,2021-07-25,,,15
+SUN,,,,30
+MON,2021-07-26,Hatch,Thomas,4
+MON,2021-07-26,Pivetta,Nicholas Johncarlo,3
+MON,2021-07-26,Valdez,Phillips Chalier,2
+MON,2021-07-26,Richards,Trevor,1
+MON,2021-07-26,Romano,Jordan Robert,1
+MON,2021-07-26,Saucedo,Tayler Andrew,1
+MON,2021-07-26,,,12
+MON,,,,12
+WED,2021-07-28,Ray,Robert Glenn,8
+WED,2021-07-28,Houck,Tanner,7
+WED,2021-07-28,Rios,Yacksel,3
+WED,2021-07-28,Matz,Steven Jakob,2
+WED,2021-07-28,Murphy,Patrick Brian,2
+WED,2021-07-28,Richards,Garrett Thomas,2
+WED,2021-07-28,Barnes,Matthew David,1
+WED,2021-07-28,Romano,Jordan Robert,1
+WED,2021-07-28,Thornton,Trent Edward,1
+WED,2021-07-28,Workman,Brandon Carlin,1
+WED,2021-07-28,,,28
+WED,,,,28
+THU,2021-07-01,Eovaldi,Nathan Edward,6
+THU,2021-07-01,Bubic,Kristofer Sime,3
+THU,2021-07-01,Andriese,Matthew Lee,2
+THU,2021-07-01,Barlow,Scott,2
+THU,2021-07-01,Swarzak,Anthony Ray,2
+THU,2021-07-01,Santana,Ervin Ramon,1
+THU,2021-07-01,Staumont,Joshua Tyler,1
+THU,2021-07-01,,,17
+THU,2021-07-22,Houck,Tanner,8
+THU,2021-07-22,Montgomery,Jordan Blackmon,6
+THU,2021-07-22,Hernandez,Darwinzon David,2
+THU,2021-07-22,Taylor,Joshua Earl,2
+THU,2021-07-22,Barnes,Matthew David,1
+THU,2021-07-22,Green,Chad Keith,1
+THU,2021-07-22,Kriske,Brooks Joseph,1
+THU,2021-07-22,Ottavino,Adam Robert,1
+THU,2021-07-22,,,22
+THU,2021-07-29,Rodriguez,Eduardo Jose (Hernandez),8
+THU,2021-07-29,Ryu,Hyun-Jin,5
+THU,2021-07-29,Snead,Kirby,3
+THU,2021-07-29,Dolis,Rafael Jose,1
+THU,2021-07-29,Hernandez,Darwinzon David,1
+THU,2021-07-29,Workman,Brandon Carlin,1
+THU,2021-07-29,,,19
+THU,,,,58
+FRI,2021-07-09,Richards,Garrett Thomas,4
+FRI,2021-07-09,Alvarado,Jose Antonio (Lizarzabal),2
+FRI,2021-07-09,De Los Santos,Enyel,2
+FRI,2021-07-09,Hernandez,Darwinzon David,2
+FRI,2021-07-09,Kintzler,Brandon Lee,2
+FRI,2021-07-09,Velasquez,Vincent John,2
+FRI,2021-07-09,Workman,Brandon Carlin,2
+FRI,2021-07-09,Andriese,Matthew Lee,1
+FRI,2021-07-09,Rios,Yacksel,1
+FRI,2021-07-09,,,18
+FRI,2021-07-23,Cole,Gerrit Alan,8
+FRI,2021-07-23,Valdez,Phillips Chalier,7
+FRI,2021-07-23,Cortes,Nestor,3
+FRI,2021-07-23,Hernandez,Darwinzon David,2
+FRI,2021-07-23,Rios,Yacksel,1
+FRI,2021-07-23,Rodriguez,Eduardo Jose (Hernandez),1
+FRI,2021-07-23,Whitlock,Garrett Getts,1
+FRI,2021-07-23,Wilson,Justin James,1
+FRI,2021-07-23,,,24
+FRI,,,,42
+SAT,2021-07-10,Perez,Martin (Jimenez),4
+SAT,2021-07-10,Brice,Austin Robert,3
+SAT,2021-07-10,Falter,Bailey,3
+SAT,2021-07-10,Hammer,John Dale,2
+SAT,2021-07-10,Brogdon,Connor Michael,1
+SAT,2021-07-10,Moore,Matthew Cody,1
+SAT,2021-07-10,Whitlock,Garrett Getts,1
+SAT,2021-07-10,,,15
+SAT,2021-07-24,Eovaldi,Nathan Edward,8
+SAT,2021-07-24,Taillon,Jameson Lee,4
+SAT,2021-07-24,Chapman,Albertin Aroldis (de la Cruz),2
+SAT,2021-07-24,,,14
+SAT,,,,29
+,,,,199

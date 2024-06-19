@@ -1,4 +1,4 @@
-# Description
+# Directory Overview
 This directory normalizes data found in a [csv file](source_files/fenway_july_strikeouts_2021.csv) outlining strikeouts<br/>
 at Fenway Park in July of 2021.  It includes five queries that explore<br/>
 a database view titled "july_strikeouts."  [Please refer to this<br/>
@@ -36,3 +36,16 @@ a strike to start the count.  The query's output can be found [here](query_outpu
 ## [struck_out_looking.sql](queries/struck_out_looking.sql)<br/>
 Counts the number of times a batter struck out looking.  The query's<br/>
 output can be found [here](query_output/struck_out_looking.csv).<br/>
+
+## [strikeouts_by_pitcher_rollup.sql](queries/strikeouts_by_pitcher_rollup.sql)<br/>
+Provides strikeout sums for every pitcher, game date, and day of the<br/>
+week.  Accomplished with the rollup subclause.  The query's output can<br/>
+be found [here](query_output/strikeouts_rollup.csv).<br/>
+
+# Function Overview
+The [functions directory](functions/) outlines three functions - [get_dow_text](functions/get_dow_text.sql),<br/>
+[get_first_name](functions/get_player_name.sql#L8), and [get_last_name](functions/get_player_name.sql#L15) - that are called by the above SQL<br/>
+files.  get_first_name and get_last_name take a player's id as input and<br/>
+return either their first or last name as output.  get_dow_text, which<br/>
+is overloaded to accept both date and int inputs, provides a text<br/>
+representation of the day of the week.<br/>
