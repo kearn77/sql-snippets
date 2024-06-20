@@ -9,9 +9,6 @@ WITH strikeouts_by_pitcher AS (
   GROUP BY
     date,
     pitcher_id
-  ORDER BY
-    game_date ASC,
-    strikeouts DESC
 )
 
 /*
