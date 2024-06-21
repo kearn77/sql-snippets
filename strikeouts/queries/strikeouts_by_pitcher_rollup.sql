@@ -20,8 +20,8 @@ assigns lower priorities to higher columns within the rollup hierarchy.
 SELECT
   get_dow_text(day_num::INT) AS "DayOfWeek",
   game_date AS "GameDate",
-  get_last_name(pitcher_id) AS "PitcherFirst",
-  get_first_name(pitcher_id) AS "PitcherLast",
+  get_last_name(pitcher_id) AS "PitcherLast",
+  get_first_name(pitcher_id) AS "PitcherFirst",
   strikeouts AS "Strikeouts"
 FROM
   (
