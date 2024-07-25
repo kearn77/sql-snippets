@@ -1,0 +1,51 @@
+album_id,track_id,get_album_name,name,starts_at,ends_at
+1,1,For Those About To Rock We Salute You,For Those About To Rock (We Salute You),00:00,05:43
+1,6,For Those About To Rock We Salute You,Put The Finger On You,05:43,09:09
+1,7,For Those About To Rock We Salute You,Let's Get It Up,09:09,13:03
+1,8,For Those About To Rock We Salute You,Inject The Venom,13:03,16:34
+1,9,For Those About To Rock We Salute You,Snowballed,16:34,19:57
+1,10,For Those About To Rock We Salute You,Evil Walks,19:57,24:20
+1,11,For Those About To Rock We Salute You,C.O.D.,24:20,27:40
+1,12,For Those About To Rock We Salute You,Breaking The Rules,27:40,32:03
+1,13,For Those About To Rock We Salute You,Night Of The Long Knives,32:03,35:29
+1,14,For Those About To Rock We Salute You,Spellbound,35:29,40:00
+4,15,Let There Be Rock,Go Down,00:00,05:31
+4,16,Let There Be Rock,Dog Eat Dog,05:31,09:06
+4,17,Let There Be Rock,Let There Be Rock,09:06,15:13
+4,18,Let There Be Rock,Bad Boy Boogie,15:13,19:40
+4,19,Let There Be Rock,Problem Child,19:40,25:05
+4,20,Let There Be Rock,Overdose,25:05,31:15
+4,21,Let There Be Rock,Hell Ain't A Bad Place To Be,31:15,35:29
+4,22,Let There Be Rock,Whole Lotta Rosie,35:29,40:53
+6,38,Jagged Little Pill,All I Really Want,00:00,04:44
+6,39,Jagged Little Pill,You Oughta Know,04:44,08:54
+6,40,Jagged Little Pill,Perfect,08:54,12:02
+6,41,Jagged Little Pill,Hand In My Pocket,12:02,15:43
+6,42,Jagged Little Pill,Right Through You,15:43,18:39
+6,43,Jagged Little Pill,Forgiven,18:39,23:40
+6,44,Jagged Little Pill,You Learn,23:40,27:39
+6,45,Jagged Little Pill,Head Over Feet,27:39,32:07
+6,46,Jagged Little Pill,Mary Jane,32:07,36:48
+6,47,Jagged Little Pill,Ironic,36:48,40:37
+6,48,Jagged Little Pill,Not The Doctor,40:37,44:25
+6,49,Jagged Little Pill,Wake Up,44:25,49:19
+6,50,Jagged Little Pill,You Oughta Know (Alternate),49:19,57:30
+7,51,Facelift,We Die Young,00:00,02:32
+7,52,Facelift,Man In The Box,02:32,07:18
+7,53,Facelift,Sea Of Sorrow,07:18,13:08
+7,54,Facelift,Bleed The Freak,13:08,17:10
+7,55,Facelift,I Can't Remember,17:10,20:53
+7,56,Facelift,"Love, Hate, Love",20:53,27:20
+7,57,Facelift,It Ain't Like That,27:20,31:58
+7,58,Facelift,Sunshine,31:58,36:43
+7,59,Facelift,Put You Down,36:43,39:59
+7,60,Facelift,Confusion,39:59,45:43
+7,61,Facelift,I Know Somethin (Bout You),45:43,50:05
+7,62,Facelift,Real Thing,50:05,54:09
+8,63,Warner 25 Anos,Desafinado,00:00,03:05
+8,64,Warner 25 Anos,Garota De Ipanema,03:05,07:50
+8,65,Warner 25 Anos,Samba De Uma Nota Só (One Note Samba),07:50,10:07
+8,66,Warner 25 Anos,Por Causa De Você,10:07,12:57
+8,67,Warner 25 Anos,Ligia,12:57,17:09
+8,68,Warner 25 Anos,Fotografia,17:09,19:18
+8,69,Warner 25 Anos,Dindi (Dindi),19:18,23:31
