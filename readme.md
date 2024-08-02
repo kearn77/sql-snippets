@@ -10,7 +10,7 @@ and the output of all SQL queries.<br/>
 Please note that PostgreSQL is released under the following [license](PostgreSQL_license.md).
 
 ## [Two-Tuples](/two_tuples)<br/>
-The queries in this directory use SQL and PL/psSQL to generate<br/>
+The queries in this directory use SQL and PL/pgSQL to generate<br/>
 two-tuples from a sequence of numbers and its complement.  For example,<br/>
 s1 = [1,2,3,4,5] and s2 = [5,4,3,2,1] would generate the tuples<br/>
 [(1,5),(2,4),(3,3),(4,2),(5,1)].<br/>

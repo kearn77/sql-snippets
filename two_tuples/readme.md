@@ -1,5 +1,5 @@
 # Directory Overview
-The queries in this directory use SQL and PLPGSQL to generate two-tuples<br/>
+The queries in this directory use SQL and PL/pgSQL to generate two-tuples<br/>
 from a sequence of numbers and its complement.  For example, s1 =<br/>
 [1,2,3,4,5] and s2 = [5,4,3,2,1] would generate the tuples<br/>
 [(1,5),(2,4),(3,3),(4,2),(5,1)].<br/>
